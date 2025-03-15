@@ -35,7 +35,7 @@
 ### Sort + PQ
 
 - 通常的题目描述，给定若干资源，要挑选k个，完成最优化目标
-- IPO，给定若干个项目（每个项目需要一定的资金量要求和获利)，在初始资金下，最多完成k个项目，求可以达到的最大资金量。（思路：对项目按照资金量要求进行排序+PQ，PQ root是"可实现的"最大收益)
+- 502 IPO，给定若干个项目（每个项目需要一定的资金量要求和获利)，在初始资金下，最多完成k个项目，求可以达到的最大资金量。（思路：对项目按照资金量要求进行排序+PQ，PQ root是"可实现的"最大收益)
   - 核心思路，贪心
   - 先按照初始资金量进行排序
   - 不断看可以做的任务，对于所有可以做的任务中，挑个利润最大的；如果没有可做任务，那么就停止
@@ -59,4 +59,86 @@
   - 定义优化目标=sum of attr1 * min/max(attr2)
   - 按照attr2反方向排序
   - 然后用PQ 大根堆/小根堆 维护 top K sum，不断迭代即可
-- Maximum Number of Events That Can Be Attended
+- 1353 Maximum Number of Events That Can Be Attended
+  - 题干描述，若干会议，每个会议只要被参加一天，就被视作参加；求最多参加多少会议
+  - 贪心思路，如果n个会议都是同一天开始，那么哪个会议结束的越早，就优先参加哪个会议
+  - 对天数进行迭代，每天看看(1)有哪些会议可以参加，添加到PQ中；(2)然后哪些会议已经超时、不能参加，从PQ中移出；(3)如果PQ有会议可以参加，那就pop并更新count
+  - PQ采用小根堆，记录每个会议的结束时间
+  - 如何表示一个会议被参加过？首先，会议要想被参加，必须要enqueue，并且没有被pop queue；然后每天只能参加一个，那就是最早结束的那个会议，并remove from queue
+  - ```cpp
+            int i{}, n = events.size();
+            for (int d = 1; d <= 100'000; d++) {
+                while (i < n && events[i][0] <= d) {
+                    pq.push(events[i][1]);
+                    i++;
+                }
+                while (!pq.empty() && pq.top() < d)
+                    pq.pop();
+                // pick up the most close to stop one
+                if (!pq.empty()) {
+                    res++;
+                    pq.pop();
+                }
+            }
+    ```
+- 1834 Single-Threaded CPU
+  - 题干描述，给出CPU的任务选择策略，以及若干任务的提交时间和运行时间，求CPU完成任务的先后顺序
+  - CPU执行任务的时候，按照时间的流逝，选择任务执行
+  - 贪心思路，按照任务的提交时间排序，然后迭代，每次把若干可以被执行的任务放到任务池PQ中，选择优先级最高的任务进行处理
+  - 先给每个任务添加属性 idx并按照 less进行排序；PQ用小根堆，用来存储可执行的任务
+  - 简言之，提交任务，PQ优中选优，挑选最高优先级的进行执行，不断重复
+  - 具体代码1，while里面不断检查，把所有donable（任务已经提交) push PQ；如果一个任务都没有提交到queue并且PQ为空并且还有任务，那么时间cur直接跳到下个任务的开始时间；否则，从PQ选择一个最好的任务进行执行
+  - ```cpp
+
+            while (res.size() != n) {
+                // pick out donable tasks
+                bool found{};
+                while (i < n && cur >= tasks[i][0]) {
+                    pq.push({tasks[i][1], tasks[i][2]});
+                    i++;
+                    found = true;
+                }
+                // jump to next start time
+                if (!found && i < n && pq.empty()) {
+                    cur = tasks[i][0];
+                    continue;
+                }
+
+                // pick up the most prior one and execute
+                auto [p, i] = pq.top();
+                cur += p;
+                res.push_back(i);
+                pq.pop();
+            }
+    ```
+  - 具体代码2，按照提交顺序，迭代所有任务；如果cur还没有到提交时间，那么优先执行手头的任务，也就是候选池的任务；如果执行完毕之后还没有到提交时间，那么cur跳到当前提交时间，并提交任务
+  - ```cpp
+        for (int i = 0; i < n; i++) {
+            // far reach
+            while (!pq.empty() && cur < tasks[i][0]) {
+                auto [dura, j] = pq.top();
+                pq.pop();
+                cur += dura;
+                res.push_back(j);
+            }
+            if (cur < tasks[i][0])
+                cur = tasks[i][0];
+            pq.push({tasks[i][1], tasks[i][2]});
+        }
+
+        while (!pq.empty()) {
+            auto [_, j] = pq.top();
+            res.push_back(j);
+            pq.pop();
+        }
+
+    ```
+- 1851 Minimum Interval to Include Each Query
+  - offline queries TODO
+  - 思路，先对queries进行按照从小到大进行排序。对intervals也进行排序。
+  - 贪心思路，对每个query迭代，PQ 先把左端点符合条件的interval进行push，再pop不符合条件的右端点，剩下来的 pq.top就是最短区间（PQ存储 dura, right)
+- 630 Course Schedule III
+  - 题目描述，一堆课程，每个课程有ddl和耗时，对最多能修的课程数量求最大值（对数量进行贪心)
+  - 什么样的贪心策略，可以得到最多的课程数量？
+  - 贪心策略，优先选择耗时短的， or ddl更早的课程。通过列举反例，我优先选择耗时短，其次选择ddl更早的课程。或者，持续时间，然后最晚开始时间（尽量无课可修的减少等待的时间)
+  - 以时间为变量，far reach后面的课程
