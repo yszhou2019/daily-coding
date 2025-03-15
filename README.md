@@ -1,3 +1,10 @@
+## Common Compile Errors
+
+- integer overflow
+  - Line 26: Char 32: runtime error: signed integer overflow: 35009 * 99761764 cannot be represented in type 'int' (solution.cpp)
+  - error code: `sum * e % mod` 三个都是integer32
+  - solution: 用 int64 进行计算，最后要结果的时候再转化为 int32
+
 ## Binary Tree
 
 - 最基本的是DFS
@@ -27,7 +34,29 @@
 
 ### Sort + PQ
 
-
 - 通常的题目描述，给定若干资源，要挑选k个，完成最优化目标
 - IPO，给定若干个项目（每个项目需要一定的资金量要求和获利)，在初始资金下，最多完成k个项目，求可以达到的最大资金量。（思路：对项目按照资金量要求进行排序+PQ，PQ root是"可实现的"最大收益)
-- minimum cost to hire K workers
+  - 核心思路，贪心
+  - 先按照初始资金量进行排序
+  - 不断看可以做的任务，对于所有可以做的任务中，挑个利润最大的；如果没有可做任务，那么就停止
+  - 迭代project的时候，因为需要不断向后看，因此用while (cnt < k)作为外层循环，内层循环向后看用另外一个while loop
+- 857 Minimum Cost to Hire K Workers，雇佣k个工人的最低代价
+  - 核心思路，贪心
+  - 题目要求，对于一组工人，最终的花费=sum of quality  * 最高时薪
+  - 贪心思路，按照时薪进行排序（从低时薪到高时薪)
+  - 然后迭代每个工人，用PQ 大根堆，存储quality最少的k个元素，每次有k个元素就进行局部贪心
+  - 用PQ 来完成线性时间维护top K 的sum
+- 1383 Maximum Performance of a Team，**至多**选k个工人，得到的最大产出
+  - 题目要求，一组工人，产出=sum of speed * 最低效率
+  - 贪心思路，对效率进行排序，从高到低排序
+  - 然后迭代工人，用PQ 小根堆，存储 top K speed
+  - PQ完成线性时间维护 top K sum
+- 2542 Maximum Subsequence Score
+  - 定义得分= sum of nums1[slice] * min of nums2[slice]，求最大得分
+  - 贪心思路，数组组合为vector `<PII>` ，然后按照nums2从大到小排序
+  - 不断迭代，用PQ 大根堆 维护 top K sum，每次得到k个元素后用 sum * min 更新结果
+- **回顾**上面三道题
+  - 定义优化目标=sum of attr1 * min/max(attr2)
+  - 按照attr2反方向排序
+  - 然后用PQ 大根堆/小根堆 维护 top K sum，不断迭代即可
+- Maximum Number of Events That Can Be Attended
