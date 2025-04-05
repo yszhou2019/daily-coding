@@ -57,7 +57,7 @@
   - 不断迭代，用PQ 大根堆 维护 top K sum，每次得到k个元素后用 sum * min 更新结果
 - **回顾**上面三道题
   - 定义优化目标=sum of attr1 * min/max(attr2)
-  - 按照attr2反方向排序
+  - 按照attr2反方向排序(迭代方向、排序方向其实无所谓，都可以写出对应的正确解法)
   - 然后用PQ 大根堆/小根堆 维护 top K sum，不断迭代即可
 - 1353 Maximum Number of Events That Can Be Attended
   - 题干描述，若干会议，每个会议只要被参加一天，就被视作参加；求最多参加多少会议
