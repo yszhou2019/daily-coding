@@ -142,3 +142,19 @@
   - 什么样的贪心策略，可以得到最多的课程数量？
   - 贪心策略，优先选择耗时短的， or ddl更早的课程。通过列举反例，我优先选择耗时短，其次选择ddl更早的课程。或者，持续时间，然后最晚开始时间（尽量无课可修的减少等待的时间)
   - 以时间为变量，far reach后面的课程
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+<!---LeetCode Topics End-->
