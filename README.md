@@ -21,19 +21,52 @@
   - 也就是对于完全二叉树而言，得到一个目标节点的路径，只需要O(logN)时间
   - 而对于普通二叉树，需要O(N)来得到一个目标节点的路径
 
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Stack
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
-
-### About PQ in cpp / sort
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 
 `priority_queue`
-
 - PQ默认comp是less，但是root节点是最大的元素
 - sort默认comp也是less，但是顺序是从小到大
 - 如何快速清空PQ？PQ没有clear method，并且逐一pop过于耗时。因此可以构建一个新的pq。考虑comp比较复杂，可以 `pq = decltype(pq)(comp);`
 - 快速清空PQ，可能需要c++2a的支持
-
 ### Sort + PQ
-
 - 通常的题目描述，给定若干资源，要挑选k个，完成最优化目标
 - 502 IPO，给定若干个项目（每个项目需要一定的资金量要求和获利)，在初始资金下，最多完成k个项目，求可以达到的最大资金量。（思路：对项目按照资金量要求进行排序+PQ，PQ root是"可实现的"最大收益)
   - 核心思路，贪心
@@ -41,7 +74,6 @@
   - 不断看可以做的任务，对于所有可以做的任务中，挑个利润最大的；如果没有可做任务，那么就停止
   - 迭代project的时候，因为需要不断向后看，因此用while (cnt < k)作为外层循环，内层循环向后看用另外一个while loop
 - 857 Minimum Cost to Hire K Workers，雇佣k个工人的最低代价
-  - 核心思路，贪心
   - 题目要求，对于一组工人，最终的花费=sum of quality  * 最高时薪
   - 贪心思路，按照时薪进行排序（从低时薪到高时薪)
   - 然后迭代每个工人，用PQ 大根堆，存储quality最少的k个元素，每次有k个元素就进行局部贪心
@@ -77,8 +109,6 @@
                 // pick up the most close to stop one
                 if (!pq.empty()) {
                     res++;
-                    pq.pop();
-                }
             }
     ```
 - 1834 Single-Threaded CPU
@@ -88,51 +118,36 @@
   - 先给每个任务添加属性 idx并按照 less进行排序；PQ用小根堆，用来存储可执行的任务
   - 简言之，提交任务，PQ优中选优，挑选最高优先级的进行执行，不断重复
   - 具体代码1，while里面不断检查，把所有donable（任务已经提交) push PQ；如果一个任务都没有提交到queue并且PQ为空并且还有任务，那么时间cur直接跳到下个任务的开始时间；否则，从PQ选择一个最好的任务进行执行
-  - ```cpp
-
             while (res.size() != n) {
                 // pick out donable tasks
                 bool found{};
                 while (i < n && cur >= tasks[i][0]) {
                     pq.push({tasks[i][1], tasks[i][2]});
-                    i++;
                     found = true;
-                }
                 // jump to next start time
                 if (!found && i < n && pq.empty()) {
                     cur = tasks[i][0];
                     continue;
-                }
-
                 // pick up the most prior one and execute
                 auto [p, i] = pq.top();
                 cur += p;
                 res.push_back(i);
                 pq.pop();
-            }
-    ```
   - 具体代码2，按照提交顺序，迭代所有任务；如果cur还没有到提交时间，那么优先执行手头的任务，也就是候选池的任务；如果执行完毕之后还没有到提交时间，那么cur跳到当前提交时间，并提交任务
-  - ```cpp
         for (int i = 0; i < n; i++) {
             // far reach
             while (!pq.empty() && cur < tasks[i][0]) {
                 auto [dura, j] = pq.top();
-                pq.pop();
                 cur += dura;
                 res.push_back(j);
-            }
             if (cur < tasks[i][0])
                 cur = tasks[i][0];
             pq.push({tasks[i][1], tasks[i][2]});
         }
-
         while (!pq.empty()) {
             auto [_, j] = pq.top();
             res.push_back(j);
             pq.pop();
-        }
-
-    ```
 - 1851 Minimum Interval to Include Each Query
   - offline queries TODO
   - 思路，先对queries进行按照从小到大进行排序。对intervals也进行排序。
@@ -142,33 +157,15 @@
   - 什么样的贪心策略，可以得到最多的课程数量？
   - 贪心策略，优先选择耗时短的， or ddl更早的课程。通过列举反例，我优先选择耗时短，其次选择ddl更早的课程。或者，持续时间，然后最晚开始时间（尽量无课可修的减少等待的时间)
   - 以时间为变量，far reach后面的课程
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
+## Dynamic Programming
 |  |
 | ------- |
-| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
-| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
-## Design
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
 |  |
 | ------- |
-| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
-| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
-## Prefix Sum
-|  |
-| ------- |
-| [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
-## Segment Tree
-|  |
-| ------- |
-| [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
