@@ -45,6 +45,7 @@ public:
 
     vector<int> target;
     SegTreeNode* root;
+
     int minNumberOperations(vector<int>& target) {
         int n = target.size();
         this->target = target;
@@ -58,10 +59,10 @@ public:
             return 0;
         if (a == b)
             return target[a] - base;
-        auto [val, pos] = queryRangeMin(root, a, b);
-        int sum = val - base;
-        sum += dfs(target, val, a, pos - 1);
-        sum += dfs(target, val, pos + 1, b);
+        auto [info, pos] = queryRangeMin(root, a, b);
+        int sum = info - base;
+        sum += dfs(target, info, a, pos - 1);
+        sum += dfs(target, info, pos + 1, b);
         return sum;
     }
 };
