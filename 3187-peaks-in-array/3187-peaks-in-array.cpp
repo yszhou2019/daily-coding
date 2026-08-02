@@ -68,11 +68,11 @@ public:
                 int i = q[1];
                 int val = q[2];
                 nums[i] = val;
-                if (i > 0 && i < n - 1)
+                if (i >= 1 && i <= n - 2)
                     check(i);
-                if (i + 1 > 0 && i + 1 < n - 1)
+                if (i + 1 >= 1 && i + 1 <= n - 2)
                     check(i + 1);
-                if (i - 1 > 0 && i - 1 < n - 1)
+                if (i - 1 >= 1 && i - 1 <= n - 2)
                     check(i - 1);
             } else {
                 res.push_back(query(root, q[1] + 1, q[2] - 1));
