@@ -30,6 +30,7 @@
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/yszhou2019/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3187-peaks-in-array](https://github.com/yszhou2019/leetcode/tree/master/3187-peaks-in-array) |
 ## Design
 |  |
@@ -50,12 +51,14 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/yszhou2019/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3187-peaks-in-array](https://github.com/yszhou2019/leetcode/tree/master/3187-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/yszhou2019/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3187-peaks-in-array](https://github.com/yszhou2019/leetcode/tree/master/3187-peaks-in-array) |
 ## Stack
 |  |
@@ -190,4 +193,8 @@
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+## Simulation
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/yszhou2019/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
