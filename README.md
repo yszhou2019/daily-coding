@@ -28,6 +28,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yszhou2019/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/yszhou2019/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/yszhou2019/leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -188,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/yszhou2019/leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Ordered Set
@@ -206,10 +209,15 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/yszhou2019/leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+## Sparse Table
+|  |
+| ------- |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
