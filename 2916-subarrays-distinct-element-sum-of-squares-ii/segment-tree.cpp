@@ -24,8 +24,8 @@ public:
                 return;
             }
             pushDown();
-            left->updateRangeby(a, b, val);
-            right->updateRangeby(a, b, val);
+            left->updateRangeby(a, b, delta + val);
+            right->updateRangeby(a, b, delta + val);
             info = left->info + right->info;
         }
 
