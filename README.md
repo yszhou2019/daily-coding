@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
@@ -52,11 +53,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
@@ -66,6 +69,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -206,6 +210,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Merge Sort
 |  |
@@ -242,4 +247,16 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yszhou2019/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
