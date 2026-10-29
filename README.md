@@ -32,6 +32,7 @@
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0699-falling-squares](https://github.com/yszhou2019/leetcode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/yszhou2019/daily-coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
@@ -217,6 +218,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yszhou2019/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yszhou2019/daily-coding/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/yszhou2019/daily-coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -249,6 +251,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Sparse Table
 |  |
@@ -271,6 +274,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 ## Sweep Line
 |  |
 | ------- |
@@ -279,4 +283,9 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
