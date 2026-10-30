@@ -223,6 +223,7 @@
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yszhou2019/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
@@ -288,4 +289,13 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Math
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
