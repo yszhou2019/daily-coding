@@ -31,6 +31,7 @@
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0699-falling-squares](https://github.com/yszhou2019/leetcode/tree/master/0699-falling-squares) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,7 +102,10 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+
+
 
 `priority_queue`
 - PQ默认comp是less，但是root节点是最大的元素
@@ -207,6 +212,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -220,6 +226,7 @@
 | [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/yszhou2019/daily-coding/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/yszhou2019/daily-coding/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/yszhou2019/daily-coding/tree/master/0704-binary-search) |
