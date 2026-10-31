@@ -217,6 +217,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yszhou2019/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yszhou2019/daily-coding/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/yszhou2019/daily-coding/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/yszhou2019/daily-coding/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
@@ -295,6 +296,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/yszhou2019/daily-coding/tree/master/0367-valid-perfect-square) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Interactive
@@ -302,4 +304,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/yszhou2019/daily-coding/tree/master/0278-first-bad-version) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## 牛顿迭代法
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
