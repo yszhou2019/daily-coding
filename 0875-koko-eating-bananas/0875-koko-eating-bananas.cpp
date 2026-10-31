@@ -1,9 +1,9 @@
 class Solution {
 public:
+    using ll = long long;
     int minEatingSpeed(vector<int>& piles, int h) {
-        int l = 1, r = *max_element(piles.begin(), piles.end());
-        auto check = [&piles, h](int k) {
-            long long total{};
+        auto check = [=, &piles](int k) {
+            ll total{};
             for (auto p : piles) {
                 total += (p + k - 1) / k;
                 if (total > h)
@@ -11,6 +11,8 @@ public:
             }
             return total <= h;
         };
+
+        int l = 1, r = *max_element(piles.begin(), piles.end());
         while (l < r) {
             int mid = (l + r) / 2;
             if (check(mid))
