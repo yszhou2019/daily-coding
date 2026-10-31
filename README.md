@@ -42,6 +42,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yszhou2019/daily-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2569-handling-sum-queries-after-update](https://github.com/yszhou2019/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yszhou2019/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -237,6 +238,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yszhou2019/daily-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yszhou2019/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/yszhou2019/leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -288,6 +290,7 @@
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
+| [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sweep Line
 |  |
 | ------- |
