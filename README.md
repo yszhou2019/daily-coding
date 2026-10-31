@@ -39,6 +39,7 @@
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yszhou2019/daily-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
@@ -234,6 +235,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yszhou2019/daily-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yszhou2019/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
