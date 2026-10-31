@@ -2,7 +2,7 @@ class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
         int n = nums.size();
-        auto check = [&nums, n, k](int x) {
+        auto check = [=, &nums](int x) {
             int cur{nums[0]}, cnt{1};
             for (int i = 1; i < n; i++) {
                 if (x - cur >= nums[i]) {
