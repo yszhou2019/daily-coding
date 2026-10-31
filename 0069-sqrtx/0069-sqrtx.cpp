@@ -2,17 +2,16 @@ class Solution {
 public:
     using LL = long long;
     int mySqrt(int x) {
+        if (x == 0)
+            return 0;
         LL l = 1, r = x;
-        while (l <= r) {
-            LL mid = l + (r - l) / 2;
-            LL val = mid * mid;
-            if (val == x)
-                return mid;
-            if (val > x)
+        while (l < r) {
+            LL mid = r - (r - l) / 2;
+            if (mid * mid > x)
                 r = mid - 1;
             else
-                l = mid + 1;
+                l = mid;
         }
-        return l - 1;
+        return l;
     }
 };
