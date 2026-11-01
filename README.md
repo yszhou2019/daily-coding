@@ -29,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yszhou2019/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yszhou2019/daily-coding/tree/master/0035-search-insert-position) |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+| [0238-product-of-array-except-self](https://github.com/yszhou2019/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
@@ -67,6 +68,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yszhou2019/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
