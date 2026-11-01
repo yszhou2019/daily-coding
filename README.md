@@ -55,6 +55,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2569-handling-sum-queries-after-update](https://github.com/yszhou2019/leetcode/tree/master/2569-handling-sum-queries-after-update) |
@@ -86,6 +87,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yszhou2019/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -295,6 +298,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Sparse Table
 |  |
@@ -316,6 +320,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yszhou2019/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sorting
 |  |
