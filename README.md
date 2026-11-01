@@ -42,6 +42,7 @@
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yszhou2019/daily-coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -78,6 +79,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Divide and Conquer
@@ -307,6 +309,7 @@
 | [0525-contiguous-array](https://github.com/yszhou2019/daily-coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yszhou2019/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sorting
 |  |
