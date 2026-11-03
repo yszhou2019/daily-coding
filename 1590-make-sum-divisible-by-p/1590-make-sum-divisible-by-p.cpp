@@ -12,18 +12,15 @@ public:
         for (int i = 1; i < n; i++)
             pre[i] = pre[i - 1] + nums[i];
 
-        auto mod = [p](ll x) { return (x % p + p) % p; };
-
         int res{INT_MAX};
-        unordered_map<ll, int> hash{};
+        unordered_map<int, int> hash{};
         hash[0] = -1;
-        ll m = mod(sum);
         for (int i = 0; i < n; i++) {
-            ll target = (mod(pre[i]) - m + p) % p;
+            int target = ((pre[i] - sum) % p + p) % p;
             auto it = hash.find(target);
             if (it != hash.end())
                 res = min(res, i - it->second);
-            hash[mod(pre[i])] = i;
+            hash[pre[i] % p] = i;
         }
         if (res == n || res == INT_MAX)
             return -1;
