@@ -88,6 +88,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/yszhou2019/leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Sliding Window
@@ -321,6 +323,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yszhou2019/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sorting
 |  |
@@ -362,4 +365,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 <!---LeetCode Topics End-->
