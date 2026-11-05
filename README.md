@@ -46,6 +46,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yszhou2019/daily-coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yszhou2019/daily-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -83,6 +84,7 @@
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -291,6 +293,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
@@ -322,6 +325,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -356,6 +360,7 @@
 | [0069-sqrtx](https://github.com/yszhou2019/daily-coding/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/yszhou2019/daily-coding/tree/master/0367-valid-perfect-square) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Interactive
