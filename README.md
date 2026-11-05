@@ -84,6 +84,7 @@
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -293,6 +294,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
@@ -325,6 +327,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
@@ -375,6 +378,7 @@
 ## String
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 <!---LeetCode Topics End-->
