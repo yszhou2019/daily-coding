@@ -5,9 +5,9 @@ public:
         unordered_map<char, int> char2num{
             {'a', 1}, {'e', 2}, {'i', 4}, {'o', 8}, {'u', 16}};
         auto convert = [&char2num](char c) {
-            if (char2num.count(c) == 0)
-                return 0;
-            return char2num[c];
+            if (auto it = char2num.find(c); it != char2num.end())
+                return it->second;
+            return 0;
         };
         vector<int> pre(n);
         pre[0] = 0 xor convert(s[0]);
