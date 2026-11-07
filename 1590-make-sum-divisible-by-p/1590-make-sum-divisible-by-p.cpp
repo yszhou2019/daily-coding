@@ -5,7 +5,6 @@ public:
         ll sum = accumulate(nums.begin(), nums.end(), static_cast<ll>(0));
         if (sum % p == 0)
             return 0;
-
         int n = nums.size();
         vector<ll> pre(n);
         pre[0] = nums[0];
@@ -17,12 +16,11 @@ public:
         hash[0] = -1;
         for (int i = 0; i < n; i++) {
             int target = ((pre[i] - sum) % p + p) % p;
-            auto it = hash.find(target);
-            if (it != hash.end())
+            if (auto it = hash.find(target); it != hash.end())
                 res = min(res, i - it->second);
             hash[pre[i] % p] = i;
         }
-        if (res == n || res == INT_MAX)
+        if (res == INT_MAX || res == n)
             return -1;
         return res;
     }
