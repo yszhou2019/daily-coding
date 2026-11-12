@@ -59,6 +59,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2569-handling-sum-queries-after-update](https://github.com/yszhou2019/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
@@ -95,6 +96,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
+| [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/yszhou2019/daily-coding/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -341,6 +343,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
+| [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/yszhou2019/daily-coding/tree/master/2875-minimum-size-subarray-in-infinite-array) |
