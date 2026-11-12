@@ -57,6 +57,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
@@ -96,6 +97,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
@@ -343,6 +345,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
@@ -395,4 +398,12 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
+## Counting
+|  |
+| ------- |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 <!---LeetCode Topics End-->
