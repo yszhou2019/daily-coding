@@ -10,13 +10,12 @@ public:
         unordered_map<int, int> hash{};
         int res{};
         hash[0] = -1;
-        for (int r = 0; r < n; r++) {
-            int diff = 2 * pre[r] - r - 1; // count of ones - count of zeros
-            if (auto it = hash.find(diff); it != hash.end()) {
-                res = max(res, r - it->second);
-            } else {
-                hash[diff] = r;
-            }
+        for (int i = 0; i < n; i++) {
+            int diff = 2 * pre[i] - i - 1; // count of ones - count of zeros
+            if (auto it = hash.find(diff); it != hash.end())
+                res = max(res, i - it->second);
+            else
+                hash[diff] = i;
         }
         return res;
     }
