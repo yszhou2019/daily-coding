@@ -1,6 +1,7 @@
 class Solution {
 public:
     int countSubarrays(vector<int>& nums, int k) {
+        // each number in nums is distinct, number zero occurs at most once
         transform(nums.begin(), nums.end(), nums.begin(), [k](int n) {
             if (n == k)
                 return 0;
