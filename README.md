@@ -34,6 +34,7 @@
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
+| [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/yszhou2019/daily-coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
@@ -144,7 +145,10 @@
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+
+
 
 
 
@@ -356,6 +360,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
+| [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -367,6 +372,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+| [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
