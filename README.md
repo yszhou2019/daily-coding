@@ -64,6 +64,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
+| [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 | [2569-handling-sum-queries-after-update](https://github.com/yszhou2019/leetcode/tree/master/2569-handling-sum-queries-after-update) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
@@ -151,6 +152,9 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
+
+
 
 
 
@@ -374,6 +378,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Sweep Line
 |  |
 | ------- |
@@ -386,6 +391,7 @@
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
+| [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
 | ------- |
