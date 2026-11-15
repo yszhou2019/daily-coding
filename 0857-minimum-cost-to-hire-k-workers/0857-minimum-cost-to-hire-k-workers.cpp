@@ -18,14 +18,11 @@ public:
         int sum{}; // sum of quality
         double res = numeric_limits<double>::max();
         for (auto [q, w] : workers) {
-            if (pq.size() < k) {
-                pq.push(q);
-                sum += q;
-            } else if (pq.size() == k && pq.top() > q) {
+            pq.push(q);
+            sum += q;
+            if (pq.size() > k) {
                 sum -= pq.top();
                 pq.pop();
-                sum += q;
-                pq.push(q);
             }
 
             if (pq.size() == k)
