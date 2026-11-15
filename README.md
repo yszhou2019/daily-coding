@@ -41,6 +41,7 @@
 | [0699-falling-squares](https://github.com/yszhou2019/leetcode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/yszhou2019/daily-coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yszhou2019/daily-coding/tree/master/0724-find-pivot-index) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/yszhou2019/daily-coding/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -146,7 +147,10 @@
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+
+
 
 
 
@@ -362,6 +366,7 @@
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sweep Line
@@ -374,6 +379,7 @@
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Two Pointers
 |  |
 | ------- |
