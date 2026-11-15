@@ -14,14 +14,11 @@ public:
         priority_queue<int, vector<int>, greater<>> pq{};
         ll sum{}, res{};
         for (auto [s, e] : workers) {
-            if (pq.size() < k) {
-                pq.push(s);
-                sum += s;
-            } else if (pq.size() == k && pq.top() < s) {
+            pq.push(s);
+            sum += s;
+            if (pq.size() > k) {
                 sum -= pq.top();
-                sum += s;
                 pq.pop();
-                pq.push(s);
             }
 
             res = max(res, sum * e);
