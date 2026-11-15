@@ -14,14 +14,11 @@ public:
         ll res{}, sum{};
         priority_queue<int, vector<int>, greater<>> pq{};
         for (auto [n1, n2] : workers) {
-            if (pq.size() < k) {
-                sum += n1;
-                pq.push(n1);
-            } else if (pq.size() == k && pq.top() < n1) {
+            sum += n1;
+            pq.push(n1);
+            if (pq.size() > k) {
                 sum -= pq.top();
-                sum += n1;
                 pq.pop();
-                pq.push(n1);
             }
 
             if (pq.size() == k)
