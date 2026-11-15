@@ -1,7 +1,6 @@
 class Solution {
 public:
     using pii = pair<int, int>;
-
     int findMaximizedCapital(int k, int w, vector<int>& profits,
                              vector<int>& capital) {
         vector<pii> prjs{};
