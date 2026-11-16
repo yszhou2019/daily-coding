@@ -48,6 +48,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yszhou2019/daily-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1157-online-majority-element-in-subarray](https://github.com/yszhou2019/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yszhou2019/daily-coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
@@ -150,9 +151,12 @@
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
+
+
 
 
 
@@ -375,6 +379,7 @@
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -390,6 +395,7 @@
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
