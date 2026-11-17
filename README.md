@@ -62,6 +62,7 @@
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -303,6 +304,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/yszhou2019/leetcode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -384,12 +386,14 @@
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Sweep Line
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -400,6 +404,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
