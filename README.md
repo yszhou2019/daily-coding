@@ -61,6 +61,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -382,6 +383,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yszhou2019/daily-coding/tree/master/1552-magnetic-force-between-two-balls) |
+| [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Sweep Line
@@ -397,6 +399,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
+| [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
