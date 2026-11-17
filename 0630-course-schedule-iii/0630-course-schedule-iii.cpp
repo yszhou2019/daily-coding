@@ -13,7 +13,7 @@ public:
         for (int i = 0; i < n; i++) {
             pq.push(courses[i][0]);
             sum += courses[i][0];
-            if (sum > courses[i][1]) {
+            while (sum > courses[i][1]) {
                 sum -= pq.top();
                 pq.pop();
             }
