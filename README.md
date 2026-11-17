@@ -37,6 +37,7 @@
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/yszhou2019/daily-coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yszhou2019/daily-coding/tree/master/0560-subarray-sum-equals-k) |
+| [0630-course-schedule-iii](https://github.com/yszhou2019/daily-coding/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0699-falling-squares](https://github.com/yszhou2019/leetcode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/yszhou2019/daily-coding/tree/master/0704-binary-search) |
@@ -152,11 +153,14 @@
 | [0307-range-sum-query-mutable](https://github.com/yszhou2019/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/yszhou2019/daily-coding/tree/master/0630-course-schedule-iii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/yszhou2019/daily-coding/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
+
+
 
 
 
@@ -380,6 +384,7 @@
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0436-find-right-interval](https://github.com/yszhou2019/daily-coding/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/yszhou2019/daily-coding/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -399,6 +404,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0502-ipo](https://github.com/yszhou2019/daily-coding/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/yszhou2019/daily-coding/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yszhou2019/daily-coding/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/yszhou2019/daily-coding/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
