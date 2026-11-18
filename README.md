@@ -101,6 +101,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/yszhou2019/daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -334,6 +336,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/yszhou2019/leetcode/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -368,6 +371,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/yszhou2019/daily-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/yszhou2019/daily-coding/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -440,6 +444,7 @@
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yszhou2019/daily-coding/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 ## Counting
