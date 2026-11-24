@@ -70,6 +70,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/yszhou2019/daily-coding/tree/master/2187-minimum-time-to-complete-trips) |
+| [2256-minimum-average-difference](https://github.com/yszhou2019/daily-coding/tree/master/2256-minimum-average-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
@@ -113,6 +114,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yszhou2019/daily-coding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2256-minimum-average-difference](https://github.com/yszhou2019/daily-coding/tree/master/2256-minimum-average-difference) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
