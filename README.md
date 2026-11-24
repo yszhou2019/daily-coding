@@ -75,6 +75,7 @@
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
 | [2542-maximum-subsequence-score](https://github.com/yszhou2019/daily-coding/tree/master/2542-maximum-subsequence-score) |
 | [2569-handling-sum-queries-after-update](https://github.com/yszhou2019/leetcode/tree/master/2569-handling-sum-queries-after-update) |
+| [2574-left-and-right-sum-differences](https://github.com/yszhou2019/daily-coding/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/yszhou2019/daily-coding/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -116,6 +117,7 @@
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2256-minimum-average-difference](https://github.com/yszhou2019/daily-coding/tree/master/2256-minimum-average-difference) |
 | [2488-count-subarrays-with-median-k](https://github.com/yszhou2019/daily-coding/tree/master/2488-count-subarrays-with-median-k) |
+| [2574-left-and-right-sum-differences](https://github.com/yszhou2019/daily-coding/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/2845-count-of-interesting-subarrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/yszhou2019/daily-coding/tree/master/2875-minimum-size-subarray-in-infinite-array) |
