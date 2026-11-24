@@ -28,6 +28,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yszhou2019/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yszhou2019/daily-coding/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/yszhou2019/daily-coding/tree/master/0042-trapping-rain-water) |
 | [0218-the-skyline-problem](https://github.com/yszhou2019/leetcode/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/yszhou2019/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yszhou2019/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -150,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yszhou2019/daily-coding/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yszhou2019/daily-coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -285,6 +287,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yszhou2019/daily-coding/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/yszhou2019/daily-coding/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yszhou2019/daily-coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -294,6 +297,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yszhou2019/daily-coding/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search
 |  |
@@ -427,6 +431,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yszhou2019/daily-coding/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/yszhou2019/daily-coding/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yszhou2019/daily-coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
