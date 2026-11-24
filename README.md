@@ -290,6 +290,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/yszhou2019/daily-coding/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yszhou2019/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yszhou2019/daily-coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yszhou2019/daily-coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [0658-find-k-closest-elements](https://github.com/yszhou2019/daily-coding/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/yszhou2019/daily-coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yszhou2019/daily-coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/yszhou2019/daily-coding/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/yszhou2019/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Sparse Table
@@ -454,6 +456,7 @@
 | [1542-find-longest-awesome-substring](https://github.com/yszhou2019/daily-coding/tree/master/1542-find-longest-awesome-substring) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yszhou2019/daily-coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yszhou2019/daily-coding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yszhou2019/daily-coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 ## Counting
 |  |
