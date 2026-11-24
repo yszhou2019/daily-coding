@@ -62,6 +62,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1649-create-sorted-array-through-instructions](https://github.com/yszhou2019/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/yszhou2019/daily-coding/tree/master/1664-ways-to-make-a-fair-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yszhou2019/daily-coding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1834-single-threaded-cpu](https://github.com/yszhou2019/daily-coding/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yszhou2019/daily-coding/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -106,6 +107,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yszhou2019/daily-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yszhou2019/daily-coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yszhou2019/daily-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/yszhou2019/daily-coding/tree/master/1664-ways-to-make-a-fair-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yszhou2019/daily-coding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-number-of-wonderful-substrings](https://github.com/yszhou2019/daily-coding/tree/master/1915-number-of-wonderful-substrings) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/yszhou2019/daily-coding/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
